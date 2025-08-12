@@ -1,5 +1,5 @@
 # CTF
-A CTF competition I participated in through Florida State University
+A CTF competition I participated in through Florida State University  
 Dirtball
 ![Picture1.png](images/Picture1.png)
 
